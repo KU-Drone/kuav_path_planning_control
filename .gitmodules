@@ -1,0 +1,3 @@
+[submodule "scripts/coordinate_changer"]
+	path = scripts/coordinate_changer
+	url = git@github.com:KU-Drone/coordinate_changer.git
